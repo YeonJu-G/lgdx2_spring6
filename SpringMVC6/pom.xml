@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lgdx</groupId>
-	<artifactId>SpringMVC05</artifactId>
+	<artifactId>SpringMVC06</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringMVC05</name>
+	<name>SpringMVC06</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
